@@ -3,7 +3,7 @@
 Email: amadasif.ad20@gmail.com  
 Phone: +923022141630
 
-### **Summary**
+### **Professional Summary**
 
 - 2 years of expertise in React Native, proficient in developing applications for both Android and iOS platforms.
 - I have experience in using Flutter (Dart) to develop mobile applications.
