@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @amadasif-dev
-- 👀 I’m interested in mobile APP
-- 🌱 I’m currently learning Flutter || React Native 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @amadasif-dev
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## **Amad Asif**
+### **Contact**
+Email: amadasif.ad20@gmail.com  
+Phone: +92-302-2141630
 
-<!---
-amadasif-dev/amadasif-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### **Summary**
+
+- 2 years of expertise in React Native, proficient in developing applications for both Android and iOS platforms.
+- I have experience in using Flutter (Dart) to develop mobile applications.
+- Strong Knowledge of state management (Redux & Provider).
+- Understanding of REST APIs in both React Native and Flutter.
+- Firebase, Firebase Store, Realtime, DynamicLink knowledge.
+- Gain expertise in relational databases and SQL to design project schemas skillfully.
+
