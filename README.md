@@ -1,7 +1,7 @@
 ## **Amad Asif**
 ### **Contact**
 Email: amadasif.ad20@gmail.com  
-Phone: +92-302-2141630
+Phone: +923022141630
 
 ### **Summary**
 
