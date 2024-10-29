@@ -5,7 +5,7 @@ Phone: +923022141630
 
 ### **Professional Summary**
 
-- 2 years of expertise in React Native, proficient in developing applications for both Android and iOS platforms.
+- 1 years of expertise in React Native, proficient in developing applications for both Android and iOS platforms.
 - I have experience in using Flutter (Dart) to develop mobile applications.
 - Strong Knowledge of state management (Redux & Provider).
 - Understanding of REST APIs in both React Native and Flutter.
