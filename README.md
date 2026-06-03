@@ -22,7 +22,7 @@
 
 ## About Me
 
-React Native and Flutter engineer with **3+ years of production experience**, **2 published apps** on the iOS App Store and Google Play, and a track record across the **fintech, construction, legal, and service-marketplace** sectors.
+React Native and Flutter engineer with **5 years of production experience**, **2 published apps** on the iOS App Store and Google Play, and a track record across the **fintech, construction, legal, and service-marketplace** sectors.
 
 I specialise in real-time systems, offline-first architecture, secure authentication, and payment integrations — and I work independently with international clients across **Australia, New Zealand, and the UK** in Agile, deadline-driven environments.
 
