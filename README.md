@@ -1,8 +1,8 @@
-# 👋 Amad Asif | React Native & Flutter Engineer
+# Amad Asif | React Native & Flutter Engineer
 
 <div align="center">
 
-### Building scalable, real-time mobile applications • Secure architectures • Cross-platform delivery
+### Building scalable, real-time mobile applications — Secure architectures — Cross-platform delivery
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amad-asif-53507b1b9/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amadasif.ad20@gmail.com)
@@ -15,50 +15,56 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-> **React Native & Flutter engineer** with **3+ years** of production experience, **2 published apps** on the iOS App Store and Google Play, and a proven track record across **fintech, construction, legal tech, and service marketplace** domains.
+React Native and Flutter engineer with 3+ years of production experience, 2 published apps on the iOS App Store and Google Play, and a proven track record across fintech, construction, legal tech, and service marketplace domains.
 
 I specialize in:
-- 📱 **Cross-platform mobile development** with React Native & Flutter
-- ⚡ **Real-time systems** using Socket.IO and Firebase
-- 🔒 **Secure authentication** with AES-256 encryption & JWT
-- 💳 **Payment integrations** (Apple Pay, Google Pay, Stripe, IAP)
-- 📴 **Offline-first architectures** with automatic background sync
-- 🌍 **International collaboration** across Australia, New Zealand, UK, and US
 
-Currently pursuing an **MS in Computer Science** at Iqra University, Karachi.
+- Cross-platform mobile development with React Native and Flutter
+- Real-time systems using Socket.IO and Firebase
+- Secure authentication with AES-256 encryption and JWT
+- Payment integrations (Apple Pay, Google Pay, Stripe, IAP)
+- Offline-first architectures with automatic background sync
+- International collaboration across Australia, New Zealand, UK, and US
+
+Currently pursuing an MS in Computer Science at Iqra University, Karachi.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Mobile Development
+
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### State Management & APIs
+### State Management and APIs
+
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context%20API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-### Backend & Real-Time
+### Backend and Real-Time
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Security & Payments
+### Security and Payments
+
 ![AES-256](https://img.shields.io/badge/AES--256-4B0082?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000000?style=for-the-badge&logo=applepay&logoColor=white)
 ![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626FD2?style=for-the-badge&logo=stripe&logoColor=white)
 
-### Databases & Tools
+### Databases and Tools
+
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -66,7 +72,7 @@ Currently pursuing an **MS in Computer Science** at Iqra University, Karachi.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -80,19 +86,20 @@ Currently pursuing an **MS in Computer Science** at Iqra University, Karachi.
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
-### 🏗️ Build2Trade – Construction Marketplace
-**Australia • Freelance • Jul 2025 – Jan 2026**
+### Build2Trade — Construction Marketplace
 
-Cross-platform app connecting builders with tradespeople (electrical, plumbing, etc.) for project-based hiring and quoting.
+**Australia | Freelance | Jul 2025 – Jan 2026**
+
+Cross-platform app connecting builders with tradespeople across electrical, plumbing, and other disciplines for project-based hiring and quoting.
 
 **Key Features:**
-- ⚡ Real-time messaging system with file attachments via Socket.IO
-- 📋 Quote submission & approval workflows with role-based access
-- 📄 PDF export for project documents
-- 🔔 Firebase push notifications on project updates
-- 💰 In-app purchases for premium features
+- Real-time messaging system with file attachments via Socket.IO
+- Quote submission and approval workflows with role-based access
+- PDF export for project documents
+- Firebase push notifications on project updates
+- In-app purchases for premium features
 
 **Tech Stack:**
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -100,21 +107,22 @@ Cross-platform app connecting builders with tradespeople (electrical, plumbing, 
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 
-🔗 [Google Play](https://play.google.com/store/apps/details?id=com.build2trade) | [iOS App Store](https://apps.apple.com/us/app/build2trade/id6758301837)
+Links: [Google Play](https://play.google.com/store/apps/details?id=com.build2trade) | [iOS App Store](https://apps.apple.com/us/app/build2trade/id6758301837)
 
 ---
 
-### 🌾 FarmServ (FAMASERV) – Service Marketplace
-**New Zealand • Freelance • Nov 2025 – May 2026**
+### FarmServ — Service Marketplace
 
-Global service marketplace platform connecting clients with service providers across multiple industries.
+**New Zealand | Freelance | Nov 2025 – May 2026**
+
+Global service marketplace platform connecting clients with service providers across multiple industries with real-time chat and multilingual support.
 
 **Key Features:**
-- 💬 Real-time in-app chat with Firebase Cloud Messaging
-- 🌐 i18Next localization supporting **5 languages**
-- 💳 Apple Pay & Google Pay integration
-- 🔄 Context API + Axios for seamless state & API management
-- 📱 Optimized for global audience with responsive design
+- Real-time in-app chat with Firebase Cloud Messaging
+- i18Next localization supporting 5 languages
+- Apple Pay and Google Pay integration
+- Context API and Axios for seamless state and API management
+- Optimized for global audience with responsive design
 
 **Tech Stack:**
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -122,21 +130,22 @@ Global service marketplace platform connecting clients with service providers ac
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![i18Next](https://img.shields.io/badge/-i18Next-26A69A?style=flat-square&logo=i18next&logoColor=white)
 
-🔗 [iOS App Store](https://apps.apple.com/us/app/famaserve/id6758301837)
+Link: [iOS App Store](https://apps.apple.com/us/app/famaserve/id6758301837)
 
 ---
 
-### 🏦 Digi Internet Banking – Fintech Solution
-**Pakistan • Full-time (IConsult) • Jan 2025 – Jul 2025**
+### Digi Internet Banking — Fintech Solution
 
-Secure mobile banking solution with core financial operations and compliance-focused architecture.
+**Pakistan | Full-time (IConsult) | Jan 2025 – Jul 2025**
+
+Secure mobile banking solution with core financial operations and compliance-focused architecture for banking transfers and top-ups.
 
 **Key Features:**
-- 🏧 Inter-Bank Fund Transfer (IBFT) and account transfers
-- 📱 Mobile top-up and recharge functionality
-- 🔐 **AES-256 encryption** for sensitive data protection
-- 📊 Redux state management with Axios for secure backend communication
-- ✅ Financial compliance and session handling
+- Inter-Bank Fund Transfer (IBFT) and account transfers
+- Mobile top-up and recharge functionality
+- AES-256 encryption for sensitive data protection
+- Redux state management with Axios for secure backend communication
+- Financial compliance and session handling
 
 **Tech Stack:**
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -146,16 +155,17 @@ Secure mobile banking solution with core financial operations and compliance-foc
 
 ---
 
-### ⚖️ LawSyst Lite – Legal & Life Assurance
-**UK • Full-time (ITSec Pvt Ltd) • Nov 2024 – Feb 2025**
+### LawSyst Lite — Legal and Life Assurance
 
-ISO-certified legal and life assurance mobile app with offline-first architecture.
+**UK | Full-time (ITSec Pvt Ltd) | Nov 2024 – Feb 2025**
+
+ISO-certified legal and life assurance mobile app with offline-first architecture for low-bandwidth environments.
 
 **Key Features:**
-- 📴 Offline-first form system with local draft persistence
-- 🔄 Automatic database sync when connectivity restored
-- 📊 Redux state management optimized for low-bandwidth environments
-- 🛡️ Data integrity focus with careful UX in unstable networks
+- Offline-first form system with local draft persistence
+- Automatic database sync when connectivity restored
+- Redux state management optimized for low-bandwidth environments
+- Data integrity focus with careful UX in unstable networks
 
 **Tech Stack:**
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -164,16 +174,18 @@ ISO-certified legal and life assurance mobile app with offline-first architectur
 
 ---
 
-### 🚚 Pepsi Cola Delivery App & Dashboard
-**Pakistan • Part-time (Tech Accuracy) • Jul 2024 – Aug 2025**
+### Pepsi Cola Delivery App and Dashboard
 
-Delivery management app for field operations with real-time admin dashboard.
+**Pakistan | Part-time (Tech Accuracy) | Jul 2024 – Aug 2025**
+
+Delivery management app for field operations with real-time admin dashboard for tracking and management.
 
 **Key Features:**
-- 📦 Cross-platform delivery app (React Native + Flutter)
-- 📊 Real-time admin dashboard with JWT auth and role-based access
-- 👥 Client-facing demos and requirement gathering
-- 🎯 Team leadership and mentorship
+- Cross-platform delivery app (React Native and Flutter)
+- Real-time admin dashboard with JWT auth and role-based access
+- Client-facing demos and requirement gathering
+- Team leadership and mentorship
+- Performance monitoring and optimization
 
 **Tech Stack:**
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -182,7 +194,7 @@ Delivery management app for field operations with real-time admin dashboard.
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 | Role | Company | Period | Location |
 |------|---------|--------|----------|
@@ -196,37 +208,38 @@ Delivery management app for field operations with real-time admin dashboard.
 
 ---
 
-## 🎓 Education
+## Education
 
-- **Master of Science, Computer Science** — Iqra University, Karachi *(Mar 2025 – Jul 2026)*
-- **Bachelor of Science, Computer Science** — Iqra University, Karachi *(Jun 2019 – Aug 2024)*
-- **Diploma of Associate Engineering (Electrical)** — Jinnah Polytechnic Institute, Karachi *(2012 – 2015)*
-
----
-
-## 📈 Activity Graph
-
-[![Amad's Activity Graph](https://activity-graph.herokuapp.com/graph?username=amadasif-dev&custom_title=Amad's%20Contribution%20Activity&theme=tokyonight&hide_border=true)](https://github.com/amadasif-dev)
+- Master of Science, Computer Science — Iqra University, Karachi (Mar 2025 – Jul 2026)
+- Bachelor of Science, Computer Science — Iqra University, Karachi (Jun 2019 – Aug 2024)
+- Diploma of Associate Engineering (Electrical) — Jinnah Polytechnic Institute, Karachi (2012 – 2015)
 
 ---
 
-## 🎯 What I'm Working On
+## Activity Graph
 
-- 🔨 Building **ARC** – A luxury mobility app (chauffeur + self-drive)
-- 📚 Pursuing **MS in Computer Science** at Iqra University
-- 🌟 Open to **remote contract opportunities** with startups & scale-ups
-- 🚀 Exploring **Web3/Blockchain mobile integration**
+[![Amad's Activity Graph](https://activity-graph.herokuapp.com/graph?username=amadasif-dev&custom_title=Contribution%20Activity&theme=tokyonight&hide_border=true)](https://github.com/amadasif-dev)
 
 ---
 
-## 🤝 Let's Connect
+## Currently Working On
 
-I'm always excited to discuss:
-- 📱 Mobile-first architecture patterns
-- 🔐 Secure authentication & data encryption
-- ⚡ Real-time systems and Socket.IO
-- 🌍 Cross-platform development strategies
-- 💡 Startup ideas and innovative projects
+- Building ARC — A luxury mobility app (chauffeur and self-drive)
+- Pursuing MS in Computer Science at Iqra University
+- Open to remote contract opportunities with startups and scale-ups
+- Exploring Web3 and Blockchain mobile integration
+
+---
+
+## Let's Connect
+
+Open to discussing:
+
+- Mobile-first architecture patterns
+- Secure authentication and data encryption
+- Real-time systems and Socket.IO
+- Cross-platform development strategies
+- Startup ideas and innovative projects
 
 <div align="center">
 
@@ -241,7 +254,7 @@ I'm always excited to discuss:
 
 <div align="center">
 
-### ⭐ If you find my work interesting, please consider giving a star! It helps me stay motivated.
+If you find my work interesting, please consider giving a star. It helps me stay motivated.
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amadasif-dev.amadasif-dev)
 
