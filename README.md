@@ -37,7 +37,7 @@ Results-driven Mobile Software Engineer with **3+ years of experience** speciali
 ### <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30px" /> **Skills**
 
 * **Languages:** JavaScript (ES6+), TypeScript, Dart
-* **Mobile:** React Native, Flutter, React Hooks, React Navigation, Responsive UI, Cross-Platform Development
+* **Mobile & Animation:** React Native, Flutter, React Hooks, React Navigation, Responsive UI, Micro-interactions & Animated UI Components (React Bits / Framer Motion patterns)
 * **State Management:** Redux, Redux Toolkit, Redux Persist, Context API
 * **Backend & APIs:** REST APIs, Node.js, Socket.IO, Axios, Firebase (Firestore, Realtime DB, Cloud Functions), FCM
 * **Security & Auth:** AES-256 Encryption, JWT, Secure Authentication, Session Management
@@ -136,13 +136,21 @@ Results-driven Mobile Software Engineer with **3+ years of experience** speciali
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+### 📊 **GitHub Activity & Statistics**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amadasif-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadasif-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="45%" />
+  <a href="https://github.com/amadasif-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=amadasif-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/amadasif-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadasif-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="45%" />
+  </a>
 </p>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amadasif-dev&theme=tokyonight&hide_border=true" alt="Amad's Activity Graph" width="95%" />
+<a href="https://github.com/amadasif-dev">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amadasif-dev&theme=tokyonight&hide_border=true" alt="Amad's Activity Graph" width="95%" />
+</a>
 
 </div>
