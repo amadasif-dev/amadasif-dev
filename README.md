@@ -28,7 +28,7 @@
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284100-561b9735-8111-43e2-a398-04d2e586d8d1.gif" width="30px" /> **Summary**
+### <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30px" /> **Summary**
 
 Results-driven Mobile Software Engineer with **3+ years of experience** specializing in cross-platform development using **React Native, TypeScript, and Node.js**. Successfully architected and deployed multiple production applications to the App Store and Google Play across fintech, logistics, and marketplace domains. Proven expertise in building secure, scalable features including real-time chat, map-based tracking, offline-first synchronization, and encrypted payment gateways. Adept at collaborating within Agile teams to deliver high-performance solutions for international clients.
 
