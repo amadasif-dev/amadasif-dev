@@ -28,7 +28,7 @@
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284100-561b9735-8111-43e2-a398-04d2e586d8d1.gif" width="30px" /> **Summary**
+### <img src="https://user-images.githubusercontent.com/74038190/212284158-75c6d328-765f-402f-b40b-74b83b483e58.gif" width="30px" />  **Summary**
 
 Results-driven Mobile Software Engineer with **3+ years of experience** specializing in cross-platform development using **React Native, TypeScript, and Node.js**. Successfully architected and deployed multiple production applications to the App Store and Google Play across fintech, logistics, and marketplace domains. Proven expertise in building secure, scalable features including real-time chat, map-based tracking, offline-first synchronization, and encrypted payment gateways. Adept at collaborating within Agile teams to deliver high-performance solutions for international clients.
 
@@ -57,16 +57,8 @@ Results-driven Mobile Software Engineer with **3+ years of experience** speciali
 * Optimized application performance by minimizing unnecessary render cycles, improving component efficiency, and implementing responsive UI patterns to deliver faster and smoother user experiences.
 * Developed and integrated scalable Node.js/Express REST API endpoints, facilitating seamless data synchronization between mobile clients and backend servers.
 
-#### **IConsult - Fintech / Digital Banking** — *Software Engineer*
-**Feb 2025 – Jun 2025 | Full-time**
-* Built highly scalable and secure cross-platform banking applications in React Native, maintaining a **99.9% crash-free rate** across iOS and Android devices.
-* Engineered core financial features including fund transfers, balance inquiries, and mobile top-ups, securely processing daily transactions.
-* Architected robust state management using Redux and integrated RESTful APIs via Axios, ensuring reliable backend communication and data integrity.
-* Enforced strict data security protocols, session management, and JWT authentication to maintain 100% compliance with financial industry regulations.
-* Participated in Agile sprint planning and code reviews, consistently delivering complex feature sets on schedule.
-
 #### **Tech Accuracy Delivery App (Pepsi Cola)** — *Software Engineer*
-**Aug 2024 – Jan 2025 | Full-time**
+**Aug 2024 – Jun 2025 | Full-time**
 * Developed and maintained a delivery management app for Pepsi-Cola using React Native and Flutter for field operations.
 * Built a secure companion AngularJS administrative dashboard featuring real-time data visualization, JWT authentication, and role-based access control (RBAC).
 * Led client-facing activities: in-person demos, requirement gathering, and expectation alignment.
