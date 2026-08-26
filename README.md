@@ -48,7 +48,7 @@ Results-driven Mobile Software Engineer with **3+ years of experience** speciali
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-75c6d328-765f-402f-b40b-74b83b483e58.gif" width="30px" /> **Work Experience**
+### <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30px" /> **Work Experience**
 
 #### **Graphica Pro Artistry** — *Mobile Application Developer*
 **Jul 2025 – Jun 2026 | Melbourne, Australia (Remote)**
@@ -83,7 +83,7 @@ Results-driven Mobile Software Engineer with **3+ years of experience** speciali
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284135-21d74a9b-13cb-4e31-8935-43ea56093cb7.gif" width="30px" /> **Featured Projects**
+### <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30px" /> **Featured Projects**
 
 #### 🚘 **Midnight Express TNC — ARC (Anywhere Rental Car)**
 > **Role:** Mobile App Developer (React Native) | **Location:** Freelance United States (Remote)
