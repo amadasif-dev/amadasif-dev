@@ -28,7 +28,7 @@
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284158-75c6d328-765f-402f-b40b-74b83b483e58.gif" width="30px" />  **Summary**
+### <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30px" /> **Summary**
 
 Results-driven Mobile Software Engineer with **3+ years of experience** specializing in cross-platform development using **React Native, TypeScript, and Node.js**. Successfully architected and deployed multiple production applications to the App Store and Google Play across fintech, logistics, and marketplace domains. Proven expertise in building secure, scalable features including real-time chat, map-based tracking, offline-first synchronization, and encrypted payment gateways. Adept at collaborating within Agile teams to deliver high-performance solutions for international clients.
 
@@ -121,3 +121,4 @@ Results-driven Mobile Software Engineer with **3+ years of experience** speciali
 ### 🎓 **Education**
 
 * **Master of Science (MS), Computer Science** — Iqra University, Karachi
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
