@@ -1,6 +1,8 @@
-# Hi there, I'm Amad Asif 👋
+# <img src="https://user-images.githubusercontent.com/18350557/176309783-0785839b-228c-43e9-a24c-bd3e9e353f86.gif" width="40px" /> Hi there, I'm Amad Asif!
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 ### **Software Engineer — Cross-Platform Mobile Engineer**
 
@@ -17,113 +19,121 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-### **Summary**
-
-Results-driven Mobile Software Engineer with **3+ years of experience** specializing in cross-platform development using **React Native, TypeScript, and Node.js**.. Successfully architected and deployed multiple production applications to the App Store and Google Play across fintech, logistics, and marketplace domains.. Proven expertise in building secure, scalable features including real-time chat, map-based tracking, offline-first synchronization, and encrypted payment gateways.. Adept at collaborating within Agile teams to deliver high-performance solutions for international clients..
-
----
-
-### **Skills**
-
-* **Languages:** JavaScript (ES6+), TypeScript, Dart.
-* **Mobile:** React Native, Flutter, React Hooks, React Navigation, Responsive UI, Cross-Platform Development.
-* **State Management:** Redux, Redux Toolkit, Redux Persist, Context API.
-* **Backend & APIs:** REST APIs, Node.js, Socket.IO, Axios, Firebase (Firestore, Realtime DB, Cloud Functions), FCM.
-* **Security & Auth:** AES-256 Encryption, JWT, Secure Authentication, Session Management.
-* **Payments:** Apple Pay, Google Pay, In-App Purchases (IAP).
-* **Databases:** Cloud Firestore, Firebase Storage, SQLite, SQL Server.
-* **DevOps & Publishing:** App Store Connect, Google Play Console, CI/CD, TestFlight, Git/GitHub.
-* **Tools:** Xcode, Android Studio, Postman, Agile/Scrum.
+<div align="center">
+  <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freelance.gif" width="450px" alt="Coding GIF" />
+</div>
 
 ---
 
-### **Work Experience**
+### <img src="https://user-images.githubusercontent.com/74038190/212284100-561b9735-8111-43e2-a398-04d2e586d8d1.gif" width="30px" /> **Summary**
+
+Results-driven Mobile Software Engineer with **3+ years of experience** specializing in cross-platform development using **React Native, TypeScript, and Node.js**. Successfully architected and deployed multiple production applications to the App Store and Google Play across fintech, logistics, and marketplace domains. Proven expertise in building secure, scalable features including real-time chat, map-based tracking, offline-first synchronization, and encrypted payment gateways. Adept at collaborating within Agile teams to deliver high-performance solutions for international clients.
+
+---
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30px" /> **Skills**
+
+* **Languages:** JavaScript (ES6+), TypeScript, Dart
+* **Mobile:** React Native, Flutter, React Hooks, React Navigation, Responsive UI, Cross-Platform Development
+* **State Management:** Redux, Redux Toolkit, Redux Persist, Context API
+* **Backend & APIs:** REST APIs, Node.js, Socket.IO, Axios, Firebase (Firestore, Realtime DB, Cloud Functions), FCM
+* **Security & Auth:** AES-256 Encryption, JWT, Secure Authentication, Session Management
+* **Payments:** Apple Pay, Google Pay, In-App Purchases (IAP)
+* **Databases:** Cloud Firestore, Firebase Storage, SQLite, SQL Server
+* **DevOps & Publishing:** App Store Connect, Google Play Console, CI/CD, TestFlight, Git/GitHub
+* **Tools:** Xcode, Android Studio, Postman, Agile/Scrum
+
+---
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284158-75c6d328-765f-402f-b40b-74b83b483e58.gif" width="30px" /> **Work Experience**
 
 #### **Graphica Pro Artistry** — *Mobile Application Developer*
-**Jul 2025 – Jun 2026 | Melbourne, Australia (Remote)**.
-* Architected and deployed high-performance, cross-platform React Native applications for iOS and Android, focusing on scalability, maintainability, performance, and reliable production releases..
-* Spearheaded the end-to-end development cycle, from UI collaboration to debugging, ensuring the timely delivery of production-ready features..
-* Optimized application performance by minimizing unnecessary render cycles, improving component efficiency, and implementing responsive UI patterns to deliver faster and smoother user experiences..
-* Developed and integrated scalable Node.js/Express REST API endpoints, facilitating seamless data synchronization between mobile clients and backend servers..
+**Jul 2025 – Jun 2026 | Melbourne, Australia (Remote)**
+* Architected and deployed high-performance, cross-platform React Native applications for iOS and Android, focusing on scalability, maintainability, performance, and reliable production releases.
+* Spearheaded the end-to-end development cycle, from UI collaboration to debugging, ensuring the timely delivery of production-ready features.
+* Optimized application performance by minimizing unnecessary render cycles, improving component efficiency, and implementing responsive UI patterns to deliver faster and smoother user experiences.
+* Developed and integrated scalable Node.js/Express REST API endpoints, facilitating seamless data synchronization between mobile clients and backend servers.
 
 #### **IConsult - Fintech / Digital Banking** — *Software Engineer*
-**Feb 2025 – Jun 2025 | Full-time**.
-* Built highly scalable and secure cross-platform banking applications in React Native, maintaining a **99.9% crash-free rate** across iOS and Android devices..
-* Engineered core financial features including fund transfers, balance inquiries, and mobile top-ups, securely processing daily transactions..
-* Architected robust state management using Redux and integrated RESTful APIs via Axios, ensuring reliable backend communication and data integrity..
-* Enforced strict data security protocols, session management, and JWT authentication to maintain 100% compliance with financial industry regulations..
-* Participated in Agile sprint planning and code reviews, consistently delivering complex feature sets on schedule..
+**Feb 2025 – Jun 2025 | Full-time**
+* Built highly scalable and secure cross-platform banking applications in React Native, maintaining a **99.9% crash-free rate** across iOS and Android devices.
+* Engineered core financial features including fund transfers, balance inquiries, and mobile top-ups, securely processing daily transactions.
+* Architected robust state management using Redux and integrated RESTful APIs via Axios, ensuring reliable backend communication and data integrity.
+* Enforced strict data security protocols, session management, and JWT authentication to maintain 100% compliance with financial industry regulations.
+* Participated in Agile sprint planning and code reviews, consistently delivering complex feature sets on schedule.
 
 #### **Tech Accuracy Delivery App (Pepsi Cola)** — *Software Engineer*
-**Aug 2024 – Jan 2025 | Full-time**.
-* Developed and maintained a delivery management app for Pepsi-Cola using React Native and Flutter for field operations..
-* Built a secure companion AngularJS administrative dashboard featuring real-time data visualization, JWT authentication, and role-based access control (RBAC)..
-* Led client-facing activities: in-person demos, requirement gathering, and expectation alignment..
-* Implemented offline-first functionality for unstable-network field conditions — orders/data captured offline and auto-synced on reconnect for reliable field operations..
-* Oversaw bug resolution and mentored team members, improving team productivity..
-* Prepared project estimates and contributed to planning for timely delivery..
+**Aug 2024 – Jan 2025 | Full-time**
+* Developed and maintained a delivery management app for Pepsi-Cola using React Native and Flutter for field operations.
+* Built a secure companion AngularJS administrative dashboard featuring real-time data visualization, JWT authentication, and role-based access control (RBAC).
+* Led client-facing activities: in-person demos, requirement gathering, and expectation alignment.
+* Implemented offline-first functionality for unstable-network field conditions — orders/data captured offline and auto-synced on reconnect for reliable field operations.
+* Oversaw bug resolution and mentored team members, improving team productivity.
+* Prepared project estimates and contributed to planning for timely delivery.
 
 #### **Lunakware Solutions** — *Mobile Application Developer*
-**Jun 2023 – Jul 2024 | Full-time**.
-* Developed and maintained cross-platform iOS/Android apps in React Native..
-* Built scalable, high-performance solutions focused on UX, real-time communication, payments, and secure authentication..
-* Collaborated with designers, backend developers, and stakeholders to ship production-ready apps..
-* Handled App Store and Google Play deployments, Firebase services, push notifications, IAP, and REST APIs..
+**Jun 2023 – Jul 2024 | Full-time**
+* Developed and maintained cross-platform iOS/Android apps in React Native.
+* Built scalable, high-performance solutions focused on UX, real-time communication, payments, and secure authentication.
+* Collaborated with designers, backend developers, and stakeholders to ship production-ready apps.
+* Handled App Store and Google Play deployments, Firebase services, push notifications, IAP, and REST APIs.
 
 ---
 
-### **Featured Projects**
+### <img src="https://user-images.githubusercontent.com/74038190/212284135-21d74a9b-13cb-4e31-8935-43ea56093cb7.gif" width="30px" /> **Featured Projects**
 
 #### 🚘 **Midnight Express TNC — ARC (Anywhere Rental Car)**
-> **Role:** Mobile App Developer (React Native) | **Location:** Freelance United States (Remote).
+> **Role:** Mobile App Developer (React Native) | **Location:** Freelance United States (Remote)
 
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Stripe](https://img.shields.io/badge/-Stripe-626FD2?style=flat-square&logo=stripe&logoColor=white)
 
-* Developed "ARC", a cross-platform luxury mobility application combining chauffeur-driven bookings and self-drive smart vehicle rentals..
-* Engineered a map-first booking flow integrating the **Smartcar API**, enabling users to lock/unlock vehicles remotely, calculate multi-leg journey routes, and view real-time locations..
-* Implemented secure Firebase Authentication (OTP, Social Login) and Stripe payment processing for seamless, encrypted ride transactions..
+* Developed "ARC", a cross-platform luxury mobility application combining chauffeur-driven bookings and self-drive smart vehicle rentals.
+* Engineered a map-first booking flow integrating the **Smartcar API**, enabling users to lock/unlock vehicles remotely, calculate multi-leg journey routes, and view real-time locations.
+* Implemented secure Firebase Authentication (OTP, Social Login) and Stripe payment processing for seamless, encrypted ride transactions.
 
 #### 🌾 **FAMASERV**
-> **Role:** Mobile App Developer | **Location:** Freelance New Zealand (Remote).
+> **Role:** Mobile App Developer | **Location:** Freelance New Zealand (Remote)
 
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Apple Pay](https://img.shields.io/badge/-Apple%20Pay-000000?style=flat-square&logo=applepay&logoColor=white)
 ![Google Pay](https://img.shields.io/badge/-Google%20Pay-4285F4?style=flat-square&logo=googlepay&logoColor=white)
 
-* Built a service marketplace platform in React Native using Context API and Axios..
-* Built real-time in-app chat on a Node.js Socket.IO server with Firebase Cloud Messaging push notifications..
-* Integrated Firebase Cloud Functions (Node.js) for backend event handling and notifications..
-* Integrated Apple Pay and Google Pay for seamless transactions..
-* Added i18Next localization supporting 5 languages for a global user base..
-* **Published:** Published on the iOS App Store..
+* Built a service marketplace platform in React Native using Context API and Axios.
+* Built real-time in-app chat on a Node.js Socket.IO server with Firebase Cloud Messaging push notifications.
+* Integrated Firebase Cloud Functions (Node.js) for backend event handling and notifications.
+* Integrated Apple Pay and Google Pay for seamless transactions.
+* Added i18Next localization supporting 5 languages for a global user base.
+* **Published:** Published on the iOS App Store.
 
 #### 🏗️ **Build2trade**
-> **Role:** React Native Developer | **Location:** Freelance Australia (Remote).
+> **Role:** React Native Developer | **Location:** Freelance Australia (Remote)
 
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-* Built a cross-platform app connecting builders with tradespeople across electrical, plumbing, and other trades..
-* Engineered a real-time messaging system on a Node.js + Socket.IO backend with file attachment support..
-* Implemented quote submission/approval workflows backed by REST APIs and role-based access control..
-* Added PDF export for project documents and Firebase push notifications with IAP for premium features..
-* **Published:** Published on both the iOS App Store and Google Play..
+* Built a cross-platform app connecting builders with tradespeople across electrical, plumbing, and other trades.
+* Engineered a real-time messaging system on a Node.js + Socket.IO backend with file attachment support.
+* Implemented quote submission/approval workflows backed by REST APIs and role-based access control.
+* Added PDF export for project documents and Firebase push notifications with IAP for premium features.
+* **Published:** Published on both the iOS App Store and Google Play.
 
 ---
 
-### **Education**
+### 🎓 **Education**
 
-* **Master of Science (MS), Computer Science** — Iqra University, Karachi.
+* **Master of Science (MS), Computer Science** — Iqra University, Karachi
 
 ---
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amadasif-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/amadasif-dev)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amadasif-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/amadasif-dev)
