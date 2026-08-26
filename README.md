@@ -129,22 +129,3 @@ Results-driven Mobile Software Engineer with **3+ years of experience** speciali
 ### 🎓 **Education**
 
 * **Master of Science (MS), Computer Science** — Iqra University, Karachi
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-### 📊 **GitHub Activity & Statistics**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amadasif-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadasif-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amadasif-dev&theme=tokyonight&hide_border=true" alt="Amad's Activity Graph" width="95%" />
-</p>
-
-</div>
