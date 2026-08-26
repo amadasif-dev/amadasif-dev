@@ -139,14 +139,12 @@ Results-driven Mobile Software Engineer with **3+ years of experience** speciali
 ### 📊 **GitHub Activity & Statistics**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amadasif-dev/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview (Dark)" width="48%" />
-  <img src="https://raw.githubusercontent.com/amadasif-dev/github-stats/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview (Light)" width="48%" />
-  <img src="https://raw.githubusercontent.com/amadasif-dev/github-stats/generated/languages.svg#gh-dark-mode-only" alt="GitHub Languages (Dark)" width="45%" />
-  <img src="https://raw.githubusercontent.com/amadasif-dev/github-stats/generated/languages.svg#gh-light-mode-only" alt="GitHub Languages (Light)" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amadasif-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadasif-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/jstrieb/github-stats"><em>Generated using jstrieb/github-stats</em></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amadasif-dev&theme=tokyonight&hide_border=true" alt="Amad's Activity Graph" width="95%" />
 </p>
 
 </div>
