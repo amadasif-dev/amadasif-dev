@@ -28,7 +28,7 @@
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30px" /> **Summary**
+### <img src="https://user-images.githubusercontent.com/74038190/212284100-561b9735-8111-43e2-a398-04d2e586d8d1.gif" width="30px" /> **Summary**
 
 Results-driven Mobile Software Engineer with **3+ years of experience** specializing in cross-platform development using **React Native, TypeScript, and Node.js**. Successfully architected and deployed multiple production applications to the App Store and Google Play across fintech, logistics, and marketplace domains. Proven expertise in building secure, scalable features including real-time chat, map-based tracking, offline-first synchronization, and encrypted payment gateways. Adept at collaborating within Agile teams to deliver high-performance solutions for international clients.
 
@@ -37,7 +37,7 @@ Results-driven Mobile Software Engineer with **3+ years of experience** speciali
 ### <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30px" /> **Skills**
 
 * **Languages:** JavaScript (ES6+), TypeScript, Dart
-* **Mobile & Animation:** React Native, Flutter, React Hooks, React Navigation, Responsive UI, Micro-interactions & Animated UI Components (React Bits / Framer Motion patterns)
+* **Mobile & Animation:** React Native, Flutter, React Hooks, React Navigation, Responsive UI, Interactive Micro-animations
 * **State Management:** Redux, Redux Toolkit, Redux Persist, Context API
 * **Backend & APIs:** REST APIs, Node.js, Socket.IO, Axios, Firebase (Firestore, Realtime DB, Cloud Functions), FCM
 * **Security & Auth:** AES-256 Encryption, JWT, Secure Authentication, Session Management
@@ -48,7 +48,7 @@ Results-driven Mobile Software Engineer with **3+ years of experience** speciali
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30px" /> **Work Experience**
+### <img src="https://user-images.githubusercontent.com/74038190/212284158-75c6d328-765f-402f-b40b-74b83b483e58.gif" width="30px" /> **Work Experience**
 
 #### **Graphica Pro Artistry** — *Mobile Application Developer*
 **Jul 2025 – Jun 2026 | Melbourne, Australia (Remote)**
@@ -83,7 +83,7 @@ Results-driven Mobile Software Engineer with **3+ years of experience** speciali
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30px" /> **Featured Projects**
+### <img src="https://user-images.githubusercontent.com/74038190/212284135-21d74a9b-13cb-4e31-8935-43ea56093cb7.gif" width="30px" /> **Featured Projects**
 
 #### 🚘 **Midnight Express TNC — ARC (Anywhere Rental Car)**
 > **Role:** Mobile App Developer (React Native) | **Location:** Freelance United States (Remote)
@@ -139,18 +139,14 @@ Results-driven Mobile Software Engineer with **3+ years of experience** speciali
 ### 📊 **GitHub Activity & Statistics**
 
 <p align="center">
-  <a href="https://github.com/amadasif-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=amadasif-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/amadasif-dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadasif-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="45%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/amadasif-dev/github-stats/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview (Dark)" width="48%" />
+  <img src="https://raw.githubusercontent.com/amadasif-dev/github-stats/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats Overview (Light)" width="48%" />
+  <img src="https://raw.githubusercontent.com/amadasif-dev/github-stats/generated/languages.svg#gh-dark-mode-only" alt="GitHub Languages (Dark)" width="45%" />
+  <img src="https://raw.githubusercontent.com/amadasif-dev/github-stats/generated/languages.svg#gh-light-mode-only" alt="GitHub Languages (Light)" width="45%" />
 </p>
 
-<br/>
-
-<a href="https://github.com/amadasif-dev">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amadasif-dev&theme=tokyonight&hide_border=true" alt="Amad's Activity Graph" width="95%" />
-</a>
+<p align="center">
+  <a href="https://github.com/jstrieb/github-stats"><em>Generated using jstrieb/github-stats</em></a>
+</p>
 
 </div>
