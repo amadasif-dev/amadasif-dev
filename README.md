@@ -1,261 +1,154 @@
-# Amad Asif | React Native & Flutter Engineer
+# Hi there, I'm Amad Asif 👋
 
 <div align="center">
 
-### Building scalable, real-time mobile applications — Secure architectures — Cross-platform delivery
+### **Senior Cross-Platform Mobile Engineer | React Native & Flutter Specialist**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amad-asif-53507b1b9/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amadasif.ad20@gmail.com)
-[![Phone](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923022141630)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://amad-asif-mobile-dev-portfolio.vercel.app/)
-
-<img src="https://komarev.com/ghpvc/?username=amadasif-dev&style=flat-square&color=blueviolet" alt="Profile Views" />
-
-</div>
-
----
-
-## About Me
-
-React Native and Flutter engineer with 3+ years of production experience, 2 published apps on the iOS App Store and Google Play, and a proven track record across fintech, construction, legal tech, and service marketplace domains.
-
-I specialize in:
-
-- Cross-platform mobile development with React Native and Flutter
-- Real-time systems using Socket.IO and Firebase
-- Secure authentication with AES-256 encryption and JWT
-- Payment integrations (Apple Pay, Google Pay, Stripe, IAP)
-- Offline-first architectures with automatic background sync
-- International collaboration across Australia, New Zealand, UK, and US
-
-Currently pursuing an MS in Computer Science at Iqra University, Karachi.
-
----
-
-## Tech Stack
-
-### Mobile Development
-
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### State Management and APIs
-
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Context API](https://img.shields.io/badge/Context%20API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-
-### Backend and Real-Time
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Security and Payments
-
-![AES-256](https://img.shields.io/badge/AES--256-4B0082?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000000?style=for-the-badge&logo=applepay&logoColor=white)
-![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626FD2?style=for-the-badge&logo=stripe&logoColor=white)
-
-### Databases and Tools
-
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amadasif-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/amadasif-dev)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amadasif-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/amadasif-dev)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=amadasif-dev&theme=tokyonight&hide_border=true)](https://github.com/amadasif-dev)
-
-</div>
-
----
-
-## Featured Projects
-
-### Build2Trade — Construction Marketplace
-
-**Australia | Freelance | Jul 2025 – Jan 2026**
-
-Cross-platform app connecting builders with tradespeople across electrical, plumbing, and other disciplines for project-based hiring and quoting.
-
-**Key Features:**
-- Real-time messaging system with file attachments via Socket.IO
-- Quote submission and approval workflows with role-based access
-- PDF export for project documents
-- Firebase push notifications on project updates
-- In-app purchases for premium features
-
-**Tech Stack:**
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
-Links: [Google Play](https://play.google.com/store/apps/details?id=com.build2trade) | [iOS App Store](https://apps.apple.com/us/app/build2trade/id6758301837)
-
----
-
-### FarmServ — Service Marketplace
-
-**New Zealand | Freelance | Nov 2025 – May 2026**
-
-Global service marketplace platform connecting clients with service providers across multiple industries with real-time chat and multilingual support.
-
-**Key Features:**
-- Real-time in-app chat with Firebase Cloud Messaging
-- i18Next localization supporting 5 languages
-- Apple Pay and Google Pay integration
-- Context API and Axios for seamless state and API management
-- Optimized for global audience with responsive design
-
-**Tech Stack:**
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Apple Pay](https://img.shields.io/badge/-Apple%20Pay-000000?style=flat-square&logo=applepay&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![i18Next](https://img.shields.io/badge/-i18Next-26A69A?style=flat-square&logo=i18next&logoColor=white)
-
-Link: [iOS App Store](https://apps.apple.com/us/app/famaserve/id6758301837)
-
----
-
-### Digi Internet Banking — Fintech Solution
-
-**Pakistan | Full-time (IConsult) | Jan 2025 – Jul 2025**
-
-Secure mobile banking solution with core financial operations and compliance-focused architecture for banking transfers and top-ups.
-
-**Key Features:**
-- Inter-Bank Fund Transfer (IBFT) and account transfers
-- Mobile top-up and recharge functionality
-- AES-256 encryption for sensitive data protection
-- Redux state management with Axios for secure backend communication
-- Financial compliance and session handling
-
-**Tech Stack:**
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![AES-256](https://img.shields.io/badge/-AES--256-4B0082?style=flat-square&logo=letsencrypt&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
----
-
-### LawSyst Lite — Legal and Life Assurance
-
-**UK | Full-time (ITSec Pvt Ltd) | Nov 2024 – Feb 2025**
-
-ISO-certified legal and life assurance mobile app with offline-first architecture for low-bandwidth environments.
-
-**Key Features:**
-- Offline-first form system with local draft persistence
-- Automatic database sync when connectivity restored
-- Redux state management optimized for low-bandwidth environments
-- Data integrity focus with careful UX in unstable networks
-
-**Tech Stack:**
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-
----
-
-### Pepsi Cola Delivery App and Dashboard
-
-**Pakistan | Part-time (Tech Accuracy) | Jul 2024 – Aug 2025**
-
-Delivery management app for field operations with real-time admin dashboard for tracking and management.
-
-**Key Features:**
-- Cross-platform delivery app (React Native and Flutter)
-- Real-time admin dashboard with JWT auth and role-based access
-- Client-facing demos and requirement gathering
-- Team leadership and mentorship
-- Performance monitoring and optimization
-
-**Tech Stack:**
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![AngularJS](https://img.shields.io/badge/-AngularJS-DD0031?style=flat-square&logo=angular&logoColor=white)
-
----
-
-## Work Experience
-
-| Role | Company | Period | Location |
-|------|---------|--------|----------|
-| Mobile Application Developer | Graphica Pro Artistry | Jul 2025 – Jun 2026 | Melbourne (Remote) |
-| Freelance React Native Developer | Build to Trade | Jul 2025 – Jan 2026 | Australia (Remote) |
-| Mobile App Developer | FAMASERV | Nov 2025 – May 2026 | New Zealand (Remote) |
-| Software Engineer (React Native) | IConsult (Digi Banking) | Feb 2025 – Jul 2025 | Karachi |
-| React Native Developer | ITSec Pvt Ltd (LawSyst Lite) | Nov 2024 – Feb 2025 | Karachi |
-| Mobile App Developer | Tech Accuracy (Pepsi Cola) | Jul 2024 – Aug 2025 | Karachi (Hybrid) |
-| Mobile Application Developer | Lunakware Solutions | Aug 2023 – Oct 2024 | Karachi |
-
----
-
-## Education
-
-- Master of Science, Computer Science — Iqra University, Karachi (Mar 2025 – Jul 2026)
-- Bachelor of Science, Computer Science — Iqra University, Karachi (Jun 2019 – Aug 2024)
-- Diploma of Associate Engineering (Electrical) — Jinnah Polytechnic Institute, Karachi (2012 – 2015)
-
----
-
-## Activity Graph
-
-[![Amad's Activity Graph](https://activity-graph.herokuapp.com/graph?username=amadasif-dev&custom_title=Contribution%20Activity&theme=tokyonight&hide_border=true)](https://github.com/amadasif-dev)
-
----
-
-## Currently Working On
-
-- Building ARC — A luxury mobility app (chauffeur and self-drive)
-- Pursuing MS in Computer Science at Iqra University
-- Open to remote contract opportunities with startups and scale-ups
-- Exploring Web3 and Blockchain mobile integration
-
----
-
-## Let's Connect
-
-Open to discussing:
-
-- Mobile-first architecture patterns
-- Secure authentication and data encryption
-- Real-time systems and Socket.IO
-- Cross-platform development strategies
-- Startup ideas and innovative projects
-
-<div align="center">
+*Building high-performance, real-time, and secure mobile architectures for global enterprise & startup clients.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amad-asif-53507b1b9/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amadasif.ad20@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923022141630)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amadasif_dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://amad-asif-mobile-dev-portfolio.vercel.app/)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=amadasif-dev&style=flat-square&color=6c5ce7)](https://github.com/amadasif-dev)
 
 </div>
 
 ---
 
+### **About Me**
+
+Cross-platform Mobile Software Engineer with **3+ years of production experience** architecting and deploying resilient iOS and Android applications[cite: 1]. Proven track record across **Fintech, On-Demand Marketplaces, Logistics, Legal Tech, and Luxury Mobility**[cite: 1]. International engineering collaboration spanning clients in the **US, UK, Australia, and New Zealand**[cite: 1].
+
+**Core Competencies:**
+* **Cross-Platform Mobile:** Native-feel user experiences using React Native and Flutter with modular state management (Redux Toolkit, Context API)[cite: 1].
+* **Real-Time Architectures:** Bidirectional communication, instant notification pipelines, and live location streaming via Socket.IO, Node.js, and Firebase Cloud Messaging (FCM)[cite: 1].
+* **Security & Compliance:** Financial-grade data encryption (AES-256), JWT session protocols, and PCI-compliant payment setups (Stripe, Apple Pay, Google Pay, In-App Purchases)[cite: 1].
+* **Offline-First Resilience:** Reliable offline database queueing (SQLite) and automatic background data synchronization for low-connectivity environments[cite: 1].
+
+---
+
+### **Tech Stack**
+
+**Languages & Frameworks**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**State Management & Backend**
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Security, Payments & Storage**
+![AES-256 Encryption](https://img.shields.io/badge/AES--256-4B0082?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![JWT Auth](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626FD2?style=for-the-badge&logo=stripe&logoColor=white)
+![Apple Pay](https://img.shields.io/badge/Apple_Pay-000000?style=for-the-badge&logo=applepay&logoColor=white)
+![Google Pay](https://img.shields.io/badge/Google_Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+### **Featured Production Projects**
+
+#### 🚘 **ARC (Anywhere Rental Car) — Luxury Mobility Platform**
+* **Role:** Lead Mobile Developer | **Region:** US (Remote)[cite: 1]
+* **Overview:** Dual-purpose mobility application combining luxury chauffeur booking workflows with self-drive vehicle rentals[cite: 1].
+* **Technical Highlights:** Integrated **Smartcar API** for remote vehicle access (lock/unlock) and vehicle telemetry, built map-first journey routing algorithms, and engineered secure Stripe checkout flows[cite: 1].
+* **Tech Stack:** React Native, Smartcar API, Firebase Auth, Stripe, Google Maps SDK[cite: 1]
+
+#### 🏗️ **Build2Trade — On-Demand Construction Marketplace**
+* **Role:** React Native Developer | **Region:** Australia (Remote)[cite: 1]
+* **Overview:** Service marketplace connecting commercial builders with specialized sub-contractors across multiple trade disciplines[cite: 1].
+* **Technical Highlights:** Socket.IO multi-media messaging, quote creation/approval flows, PDF file generation, FCM push alerts, and contractor In-App Purchases[cite: 1].
+* **Tech Stack:** React Native, Socket.IO, Node.js, Firebase, Redux Toolkit[cite: 1]
+* **Published App Links:** [iOS App Store](https://apps.apple.com/us/app/build2trade/id6758301837) | [Google Play](https://play.google.com/store/apps/details?id=com.build2trade)
+
+#### 🌾 **FAMASERV — Global On-Demand Service Marketplace**
+* **Role:** Mobile App Developer | **Region:** New Zealand (Remote)[cite: 1]
+* **Overview:** Multi-industry global service platform connecting clients with service providers[cite: 1].
+* **Technical Highlights:** Integrated express Apple Pay and Google Pay native SDKs, built a 5-language localization flow via `i18Next`, and handled serverless event processing with Firebase Cloud Functions[cite: 1].
+* **Tech Stack:** React Native, Context API, Firebase Cloud Functions, Apple Pay, Google Pay, i18Next[cite: 1]
+* **Published App Links:** [iOS App Store](https://apps.apple.com/us/app/famaserve/id6758301837)
+
+#### 🏦 **Digi Internet Banking — Commercial Mobile Banking Solution**
+* **Role:** Software Engineer | **Company:** IConsult Fintech[cite: 1]
+* **Overview:** Enterprise mobile banking application operating at a **99.9% crash-free rate**[cite: 1].
+* **Technical Highlights:** Daily Inter-Bank Fund Transfers (IBFT), payload security using **AES-256 encryption**, tokenized JWT authentication, and financial compliance handling[cite: 1].
+* **Tech Stack:** React Native, Redux Persist, AES-256 Encryption, Axios, JWT[cite: 1]
+
+#### ⚖️ **LawSyst Lite — Legal & Assurance Management**
+* **Role:** React Native Developer | **Company:** ITSec Pvt Ltd | **Region:** UK (Remote)
+* **Overview:** ISO-certified legal mobile solution engineered for advisors in unstable network settings.
+* **Technical Highlights:** Offline-first architecture backed by SQLite for offline draft persistence, automatic background database syncing, and Redux state synchronization.
+* **Tech Stack:** React Native, SQLite, Redux Toolkit, REST APIs
+
+#### 🚛 **Pepsi Cola Logistics & Delivery Management System**
+* **Role:** Software Engineer | **Company:** Tech Accuracy[cite: 1]
+* **Overview:** Cross-platform field delivery app paired with a real-time admin management portal[cite: 1].
+* **Technical Highlights:** Real-time delivery routing, offline-first operation tracking, driver telemetry, and an AngularJS dashboard with role-based access control (RBAC)[cite: 1].
+* **Tech Stack:** React Native, Flutter, AngularJS, REST APIs[cite: 1]
+
+---
+
+### **GitHub Performance Statistics**
+
 <div align="center">
 
-If you find my work interesting, please consider giving a star. It helps me stay motivated.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amadasif-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Amad's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadasif-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=amadasif-dev.amadasif-dev)
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=amadasif-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### **Contribution Activity**
+
+<div align="center">
+
+[![Amad's Activity Graph](https://activity-graph.herokuapp.com/graph?username=amadasif-dev&custom_title=Engineering%20Contribution%20Activity&theme=tokyonight&hide_border=true)](https://github.com/amadasif-dev)
+
+</div>
+
+---
+
+### **Professional Work Experience**
+
+| Organization / Client | Role | Period | Location / Domain |
+| :--- | :--- | :--- | :--- |
+| **Graphica Pro Artistry** | Mobile Application Developer | Jul 2025 – Jun 2026[cite: 1] | Melbourne, Australia (Remote)[cite: 1] |
+| **FAMASERV** | Mobile App Developer | Nov 2025 – May 2026[cite: 1] | New Zealand (Remote)[cite: 1] |
+| **Build2Trade** | React Native Developer | Jul 2025 – Jan 2026[cite: 1] | Australia (Remote)[cite: 1] |
+| **IConsult** | Software Engineer (Fintech) | Feb 2025 – Jun 2025[cite: 1] | Karachi, Pakistan |
+| **Tech Accuracy** | Software Engineer (Pepsi Cola Logistics) | Aug 2024 – Jan 2025[cite: 1] | Karachi, Pakistan |
+| **Lunakware Solutions** | Mobile Application Developer | Jun 2023 – Jul 2024[cite: 1] | Karachi, Pakistan[cite: 1] |
+
+---
+
+### **Education**
+
+* **Master of Science (MS) in Computer Science** — Iqra University, Karachi[cite: 1]
+* **Bachelor of Science (BS) in Computer Science** — Iqra University, Karachi
+
+---
+
+<div align="center">
+
+**Open for Remote Mobile Engineering Roles & High-Impact Contracts**
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amad-asif-53507b1b9/)
+[![Send Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amadasif.ad20@gmail.com)
 
 </div>
