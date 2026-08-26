@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/18350557/176309783-0785839b-228c-43e9-a24c-bd3e9e353f86.gif" width="40px" /> Hi there, I'm Amad Asif!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" /> Hi there, I'm Amad Asif!
 
 <div align="center">
 
@@ -12,6 +12,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amadasif.ad20@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923022141630)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amadasif-dev)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2980B9?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
 
 <br/>
 
@@ -135,11 +136,13 @@ Results-driven Mobile Software Engineer with **3+ years of experience** speciali
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amadasif-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/amadasif-dev)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amadasif-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/amadasif-dev)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amadasif-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amadasif-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="45%" />
+</p>
 
 <br/>
 
-[![Amad's Activity Graph](https://activity-graph.herokuapp.com/graph?username=amadasif-dev&custom_title=Contribution%20Activity&theme=tokyonight&hide_border=true)](https://github.com/amadasif-dev)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amadasif-dev&theme=tokyonight&hide_border=true" alt="Amad's Activity Graph" width="95%" />
 
 </div>
