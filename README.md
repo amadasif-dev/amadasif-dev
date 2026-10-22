@@ -58,21 +58,13 @@ Results-driven Mobile Software Engineer with **3+ years of experience** speciali
 * Developed and integrated scalable Node.js/Express REST API endpoints, facilitating seamless data synchronization between mobile clients and backend servers.
 
 #### **Tech Accuracy Delivery App (Pepsi Cola)** — *Software Engineer*
-**Aug 2024 – Jun 2025 | Full-time**
+**Jun 2023 – Jun 2025 | Full-time**
 * Developed and maintained a delivery management app for Pepsi-Cola using React Native and Flutter for field operations.
 * Built a secure companion AngularJS administrative dashboard featuring real-time data visualization, JWT authentication, and role-based access control (RBAC).
 * Led client-facing activities: in-person demos, requirement gathering, and expectation alignment.
 * Implemented offline-first functionality for unstable-network field conditions — orders/data captured offline and auto-synced on reconnect for reliable field operations.
 * Oversaw bug resolution and mentored team members, improving team productivity.
 * Prepared project estimates and contributed to planning for timely delivery.
-
-#### **Lunakware Solutions** — *Mobile Application Developer*
-**Jun 2023 – Jul 2024 | Full-time**
-* Developed and maintained cross-platform iOS/Android apps in React Native.
-* Built scalable, high-performance solutions focused on UX, real-time communication, payments, and secure authentication.
-* Collaborated with designers, backend developers, and stakeholders to ship production-ready apps.
-* Handled App Store and Google Play deployments, Firebase services, push notifications, IAP, and REST APIs.
-
 ---
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212284135-21d74a9b-13cb-4e31-8935-43ea56093cb7.gif" width="30px" /> **Featured Projects**
